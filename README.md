@@ -1,6 +1,8 @@
 # CFG_project
 
 ## Investigating traffic accident seriousness in the UK and the variables that are more likely to lead to a car collision
+ Group members: Ingrid Ionita, Clarissa Lo, Michelle Obonyano & Ayomide Olarewaju 
+
 
  This project is submitted as part of the CodeFirstGirls Data NanoDegree.
  
