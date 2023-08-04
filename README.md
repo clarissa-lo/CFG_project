@@ -26,8 +26,9 @@ Ingrid Ionita, Clarissa Lo, Michelle Obonyano & Ayomide Olarewaju <br>
 
  ## Steps For Running The Project Code
 1. Clone the git repo locally
-2. Install the following packages via pip (or conda, depending on preference): <br>
+2. Install the following packages: <br>
 - pandas, numpy, csv, matplotlib.pyplot, seaborn, functools, math, sklearn.cluster, folium, folium.plugins, geopy.geocoders, geopy.point, geopy.extra.rate_limiter, sklearn.model_selection, warnings, sklearn.model_selection, sklearn.linear_model, sklearn.metrics, sklearn.tree, sklearn.ensemble, sklearn.svm, sklearn.metrics, sklearn.feature_selection, sklearn.neighbors, sklearn.ensemble, sklearn, sklearn.decomposition, imblearn.over_sampling, matplotlib
-3. Open 1. Data cleaning.ipynb, 2. Data analysis.ipynb, 3. Machine learning.ipynb in jupyter notebook
-4. Run the code
+3. Open "1. Data cleaning.ipynb", "2. Data analysis.ipynb" and "3. Machine learning.ipynb" in jupyter notebook
+4. Run the code <br>
+
  Enjoy!
